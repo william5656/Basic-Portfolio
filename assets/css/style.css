@@ -1,0 +1,58 @@
+.size1 {
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 200px;
+    padding: 25px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    
+}
+
+.greenh {
+    color:#4aaaa5;
+    font-size: 30px;
+
+}
+
+.border1 {
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+
+}
+
+p {
+    color: #777777;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.aboutme {
+    font-size: 27px;
+}
+
+
+li a {
+    display: block;
+    color:#777777;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+
+
+.header {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav1 {
+    text-align: center;
+}
+
+h1 {
+    float: left;
+}
+

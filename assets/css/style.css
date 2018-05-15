@@ -4,9 +4,7 @@
 }
 
 #nav {
-    width: 100%;
-    margin: 20px;
-    height: 80px;
+    height: 100px;
     background-color: white;
     position: relative;
 }
@@ -14,7 +12,7 @@
 .atitle {
     position: absolute;
     bottom: 0;
-    left: 30px;
+    left: 20%;
     font-size: 30px;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -27,7 +25,7 @@
 #navclick {
     position: absolute;
     bottom: 0;
-    right: 0;
+    right: 25%;
     width: 30%;
 }
 
@@ -55,6 +53,9 @@ body {
   }
 
   h2 {
+
+    margin-top:20px;
+    margin-bottom:20px;
     font-size: 24px;
-    margin: 0 auto;
+
 }
